@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://w1.pngwing.com/pngs/471/559/png-transparent-icon-line-editing-icon-design-text-editor-orange-area-angle-logo.png" width="300" height="300">
+      <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/font-selection-editor_icon-icons.com_73557.png" width="300" height="300">
 </p>
 
 
